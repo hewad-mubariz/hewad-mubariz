@@ -1,21 +1,29 @@
-## 👋 Hey there! I'm Hewad, 
+## 👋 Hello there! I'm Hewad, 
 
-A full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
+I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
 
-🌟 Specializing in mobile development with React Native 📱, I bring 4️⃣ years of experience to the table.
+### 🔗 Connect with me on:<br />
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/hewad_mubariz)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hewad-mubariz/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hewadmubariz@gmail.com)
 
-🚀 My journey as a software developer has been a rollercoaster of fun 🎢 and challenges 💪.
 
-🌐 You can find me working on some cool projects or exploring new technologies 🚀.
+💼 I specialize in mobile development with React Native 📱, bringing 4️⃣ years of experience to the table.
 
-📧 Want to get in touch? Feel free to reach out at hewadmubariz@gmail.com 📬.
+🚀 My journey as a software developer has been a thrilling ride 🎢, filled with exciting challenges 💪.
 
-😃 Let's make some awesome stuff together! 🤝
+🌐 You can often find me working on some cool projects or exploring new technologies.
 
+📧 If you want to get in touch, feel free to reach out at hewadmubariz@gmail.com 📬.
+
+⚽️ Fun Fact: When I'm not coding, you can often find me playing football or hiking in the great outdoors!
+
+😃 Let's collaborate and create something awesome together! 🤝
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hewad-mubariz&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewad-mubariz&layout=compact" />
 
+## 🔧 Technologies & Tools
 <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Typescript" align="left"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Node.js"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
