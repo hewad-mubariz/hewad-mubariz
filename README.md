@@ -3,7 +3,7 @@
 I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
 
 ### 🔗 Connect with me on:<br />
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/hewad_mubariz)
+[<img alt="X" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white&color=black" />](https://twitter.com/hewad_mubariz)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hewad-mubariz/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hewadmubariz@gmail.com)
 
