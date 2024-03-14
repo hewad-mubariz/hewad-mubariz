@@ -23,7 +23,6 @@ I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hewad-mubariz&layout=compact)
 
 ## 🔧 Technologies & Tools
-## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
