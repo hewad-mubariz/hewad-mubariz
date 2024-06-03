@@ -1,7 +1,3 @@
-<a href="https://www.buymeacoffee.com/hewad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-</a>
-
 ## 👋 Hello there! I'm Hewad,
 
 I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
