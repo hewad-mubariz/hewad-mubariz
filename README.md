@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Hewad,
 
-I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
+I'm a full-stack software developer 👨‍💻 based in Mainz, Germany 🇩🇪.
 
 ### 🔗 Connect with me on:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white&color=black)](https://twitter.com/hewad_mubariz) 
